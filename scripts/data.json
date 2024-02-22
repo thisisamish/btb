@@ -41,8 +41,8 @@
         "busOperator": "Gola Travels",
         "startTime": "17:00",
         "endTime": "3:00",
-        "boardingPoint": "Chowk",
-        "droppingPoint": "Akshardham Metro Station",
+        "boardingPoint": "Sahadatganj",
+        "droppingPoint": "Chowk",
         "certified": false,
         "prices": { "sleeper": 1000, "seater": 700 },
         "noOfSeats": { "sleeper": 10, "seater": 40 }
@@ -52,8 +52,8 @@
         "busOperator": "Gola Travels",
         "startTime": "17:00",
         "endTime": "3:00",
-        "boardingPoint": "Sadar Bazar",
-        "droppingPoint": "Anand Vihar ISBT",
+        "boardingPoint": "Devkali Bypass",
+        "droppingPoint": "Sadar Bazar",
         "certified": false,
         "prices": { "sleeper": 1000, "seater": 700 },
         "noOfSeats": { "sleeper": 10, "seater": 40 }
@@ -63,8 +63,8 @@
         "busOperator": "Lakshmi Travels",
         "startTime": "20:00",
         "endTime": "3:00",
-        "boardingPoint": "Hathras Bus Station",
-        "droppingPoint": "Akshardham Metro Station",
+        "boardingPoint": "Devkali Bypass",
+        "droppingPoint": "Hathras Bus Station",
         "certified": false,
         "prices": { "sleeper": 2000, "seater": 1600 },
         "noOfSeats": { "sleeper": 16, "seater": 27 }
@@ -74,72 +74,61 @@
   "Delhi": {
     "Ayodhya": [
       {
-        "busId": "AD01",
+        "busId": "DA01",
         "busOperator": "Lakshmi Travels",
         "startTime": "18:00",
         "endTime": "6:00",
-        "boardingPoint": "Devkali Bypass",
-        "droppingPoint": "Akshardham Metro Station",
-        "certified": true,
+        "boardingPoint": "Akshardham Metro Station",
+        "droppingPoint": "Naya Ghat",
+        "certified": false,
         "prices": { "sleeper": 1500, "seater": 1000 },
         "noOfSeats": { "sleeper": 20, "seater": 25 }
       },
       {
-        "busId": "AD10",
+        "busId": "DA10",
         "busOperator": "Fouji Travels",
-        "startTime": "20:00",
-        "endTime": "9:00",
-        "boardingPoint": "Devkali Bypass",
-        "droppingPoint": "Anand Vihar ISBT",
+        "startTime": "9:00",
+        "endTime": "21:00",
+        "boardingPoint": "Anand Vihar ISBT",
+        "droppingPoint": "Naya Ghat",
         "certified": true,
         "prices": { "sleeper": 2000, "seater": 1500 },
         "noOfSeats": { "sleeper": 35, "seater": 25 }
       },
       {
-        "busId": "AD11",
+        "busId": "DA11",
         "busOperator": "Gola Travels",
         "startTime": "21:00",
         "endTime": "9:00",
-        "boardingPoint": "Naya Ghat",
-        "droppingPoint": "Anand Vihar ISBT",
-        "certified": true,
-        "prices": { "sleeper": 2000, "seater": 1500 },
-        "noOfSeats": { "sleeper": 35, "seater": 25 }
+        "boardingPoint": "Akshardham Metro Station",
+        "droppingPoint": "Devkali Bypass",
+        "certified": false,
+        "prices": { "sleeper": 3000, "seater": 1500 },
+        "noOfSeats": { "sleeper": 10, "seater": 45 }
       }
     ],
     "Hathras": [
       {
-        "busId": "AH10",
+        "busId": "HA10",
         "busOperator": "Gola Travels",
         "startTime": "17:00",
         "endTime": "3:00",
-        "boardingPoint": "Chowk",
-        "droppingPoint": "Akshardham Metro Station",
+        "boardingPoint": "Akshardham Metro Station",
+        "droppingPoint": "Chowk",
         "certified": false,
         "prices": { "sleeper": 1000, "seater": 700 },
-        "noOfSeats": { "sleeper": 10, "seater": 40 }
+        "noOfSeats": { "sleeper": 17, "seater": 43 }
       },
       {
-        "busId": "AH03",
-        "busOperator": "Gola Travels",
-        "startTime": "17:00",
-        "endTime": "3:00",
-        "boardingPoint": "Sadar Bazar",
-        "droppingPoint": "Anand Vihar ISBT",
-        "certified": false,
-        "prices": { "sleeper": 1000, "seater": 700 },
-        "noOfSeats": { "sleeper": 10, "seater": 40 }
-      },
-      {
-        "busId": "AH99",
+        "busId": "HA30",
         "busOperator": "Lakshmi Travels",
-        "startTime": "20:00",
+        "startTime": "17:00",
         "endTime": "3:00",
-        "boardingPoint": "Hathras Bus Station",
-        "droppingPoint": "Akshardham Metro Station",
+        "boardingPoint": "Anand Vihar ISBT",
+        "droppingPoint": "Sadar Bazar",
         "certified": false,
-        "prices": { "sleeper": 2000, "seater": 1600 },
-        "noOfSeats": { "sleeper": 16, "seater": 27 }
+        "prices": { "sleeper": 1900, "seater": 850 },
+        "noOfSeats": { "sleeper": 15, "seater": 30 }
       }
     ]
   }
