@@ -9,6 +9,8 @@
         "boardingPoint": "Devkali Bypass",
         "droppingPoint": "Akshardham Metro Station",
         "certified": true,
+        "ac": true,
+        "2+1": 
         "prices": { "sleeper": 1500, "seater": 1000 },
         "noOfSeats": { "sleeper": 20, "seater": 25 }
       },
